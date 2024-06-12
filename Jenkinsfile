@@ -9,7 +9,7 @@ agent any
     }
     stage ('Hello4') {
       steps{
-        echo "Hello1 World4"
+        echo "Hello1 World6"
       }
     }
   }
